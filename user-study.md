@@ -47,6 +47,7 @@ allowed to ask questions for clarification. After the tasks we let the participa
   <li>Q28 Learning new PL through examples is more useful than complete language specification (eg. grammar). Answer is on an agreement scale 1 to 10.</li>
 </ul>
 
+The questionnare was filled out in the webbrowser. 
 
 ## Tutorial
 
