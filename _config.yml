@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: fluentTQl
+title: fluentTQL
 
 # Short description of your site
 description: Fluently specifying taint-flow queries with fluentTQL
