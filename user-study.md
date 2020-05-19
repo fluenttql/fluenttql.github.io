@@ -16,39 +16,34 @@ allowed to ask questions for clarification. After the tasks we let the participa
 
 ## Questionnaire
 
-* test 1
-* test 2
-
-<ul>
-  <li>Q1 How many years of coding experience do you have? Answer is single option: 1-2, 3-5, 6-9, 10+ years.</li>
-  <li>Q2 What is your experience in application security? Answer is single option: Beginner, Basic knowledge, Advenced, Expert.</li>
-  <li>Q3 I am interested to learn new DSLs. Answer is on an agreement scale 1 to 10.</li>
-  <li>Q4 I find DSL 1 understandable to use. Answer is on an agreement scale 1 to 5.</li>
-  <li>Q5 I find DSL 1 unnecessarily complex. Answer is on an agreement scale 1 to 5.</li>
-  <li>Q6 I think most people would learn to use DSL 1 very quickly. Answer is on an agreement scale 1 to 5.</li>
-  <li>Q7 I would need the support of an expert to use DSL 1. Answer is on an agreement scale 1 to 5.</li>
-  <li>Q8 I find DSL 1 to be very readable and elegant. Answer is on an agreement scale 1 to 5.</li>
-  <li>Q9 I thought there was too much inconsistency in DSL 1. Answer is on an agreement scale 1 to 5.</li>
-  <li>Q10 I felt confident using DSL 1. Answer is on an agreement scale 1 to 5./li>
-  <li>Q11 I needed to learn a lot of things before I could get going with DSL 1. Answer is on an agreement scale 1 to 5.</li>
-  <li>Q12 I would recommend DSL 1 to other people. Answer is on an agreement scale 1 to 5.</li>
-  <li>Q13 Using DSL 1 was frustrating for me. Answer is on an agreement scale 1 to 5.</li>
-  <li>Q14 I find DSL 2 understandable to use. Answer is on an agreement scale 1 to 5.</li>
-  <li>Q15 I find DSL 2 unnecessarily complex. Answer is on an agreement scale 1 to 5.</li>
-  <li>Q16 I think most people would learn to use DSL 2 very quickly. Answer is on an agreement scale 1 to 5.</li>
-  <li>Q17 I would need the support of an expert to use DSL 2. Answer is on an agreement scale 1 to 5.</li>
-  <li>Q18 I find DSL 2 to be very readable and elegant. Answer is on an agreement scale 1 to 5.</li>
-  <li>Q19 I thought there was too much inconsistency in DSL 2. Answer is on an agreement scale 1 to 5.</li>
-  <li>Q20 I felt confident using DSL 2. Answer is on an agreement scale 1 to 5.</li>
-  <li>Q21 I needed to learn a lot of things before I could get going with DSL 2. Answer is on an agreement scale 1 to 5.</li>
-  <li>Q22 I would recommend DSL 2 to other people. Answer is on an agreement scale 1 to 5.</li>
-  <li>Q23 Using DSL 2 was frustrating for me. Answer is on an agreement scale 1 to 5.</li>
-  <li>Q24 How much would you recommend DSL 1 over DSL 2 to a friend for the type of task you performed? Answer is on an agreement scale 0 to 10.</li>
-  <li>Q25 How much would you recommend DSL 2 over DSL 1 to a friend for the type of task you performed? Answer is on an agreement scale o to 10.</li>
-  <li>Q26 Are there syntax elements from DSL 1 that are not understandable? or would you change? Feedback. Open question.</li>
-  <li>Q27 Are there syntax elements from DSL 2 that are not understandable? or would you change? Feedback. Open question.</li>
-  <li>Q28 Learning new PL through examples is more useful than complete language specification (eg. grammar). Answer is on an agreement scale 1 to 10.</li>
-</ul>
+* Q1 How many years of coding experience do you have? Answer is single option: 1-2, 3-5, 6-9, 10+ years.
+* Q2 What is your experience in application security? Answer is single option: Beginner, Basic knowledge, Advenced, Expert.
+* Q3 I am interested to learn new DSLs. Answer is on an agreement scale 1 to 10.
+* Q4 I find DSL 1 understandable to use. Answer is on an agreement scale 1 to 5.
+* Q5 I find DSL 1 unnecessarily complex. Answer is on an agreement scale 1 to 5.
+* Q6 I think most people would learn to use DSL 1 very quickly. Answer is on an agreement scale 1 to 5.
+* Q7 I would need the support of an expert to use DSL 1. Answer is on an agreement scale 1 to 5.
+* Q8 I find DSL 1 to be very readable and elegant. Answer is on an agreement scale 1 to 5.
+* Q9 I thought there was too much inconsistency in DSL 1. Answer is on an agreement scale 1 to 5.
+* Q10 I felt confident using DSL 1. Answer is on an agreement scale 1 to 5.
+* Q11 I needed to learn a lot of things before I could get going with DSL 1. Answer is on an agreement scale 1 to 5.
+* Q12 I would recommend DSL 1 to other people. Answer is on an agreement scale 1 to 5.
+* Q13 Using DSL 1 was frustrating for me. Answer is on an agreement scale 1 to 5.
+* Q14 I find DSL 2 understandable to use. Answer is on an agreement scale 1 to 5.
+* Q15 I find DSL 2 unnecessarily complex. Answer is on an agreement scale 1 to 5.
+* Q16 I think most people would learn to use DSL 2 very quickly. Answer is on an agreement scale 1 to 5.
+* Q17 I would need the support of an expert to use DSL 2. Answer is on an agreement scale 1 to 5.
+* Q18 I find DSL 2 to be very readable and elegant. Answer is on an agreement scale 1 to 5.
+* Q19 I thought there was too much inconsistency in DSL 2. Answer is on an agreement scale 1 to 5.
+* Q20 I felt confident using DSL 2. Answer is on an agreement scale 1 to 5.
+* Q21 I needed to learn a lot of things before I could get going with DSL 2. Answer is on an agreement scale 1 to 5.
+* Q22 I would recommend DSL 2 to other people. Answer is on an agreement scale 1 to 5.
+* Q23 Using DSL 2 was frustrating for me. Answer is on an agreement scale 1 to 5.
+* Q24 How much would you recommend DSL 1 over DSL 2 to a friend for the type of task you performed? Answer is on an agreement scale 0 to 10.
+* Q25 How much would you recommend DSL 2 over DSL 1 to a friend for the type of task you performed? Answer is on an agreement scale o to 10.
+* Q26 Are there syntax elements from DSL 1 that are not understandable? or would you change? Feedback. Open question.
+* Q27 Are there syntax elements from DSL 2 that are not understandable? or would you change? Feedback. Open question.
+* Q28 Learning new PL through examples is more useful than complete language specification (eg. grammar). Answer is on an agreement scale 1 to 10.
 
 The questionnare was filled out in the webbrowser. 
 
