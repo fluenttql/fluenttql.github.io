@@ -10,7 +10,7 @@ subtitle:
 
 The fluentTQL catalog is a set of Java applications with known vulnerabilities, tests that demonstrate how the vulnerabilities can occur,  Javadoc, and fluentTQL specifications for those vulnerabilities. The Java applications are created from code examples from several sources, like the OWASP Benchmark and MITRE database for Common Weakness Enumerations, which is documented in the Javadoc. 
 
-The implementation is located at https://github.com/fluenttql/fluenttql.catalog. This src folder in this repository contains the Java source files and the tests. The Javadoc is in the docs folder, whereas the fluentTQL specifications (with .tql file extension) are in the folder specification. 
+The implementation is located at <a href="https://github.com/fluenttql/fluenttql.catalog">fluenttql.catalog</a>. This src folder in this repository contains the Java source files and the tests. The Javadoc is in the docs folder, whereas the fluentTQL specifications (with .tql file extension) are in the folder specification. 
 
 ## Vulnerabilities
 
