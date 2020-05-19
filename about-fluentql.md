@@ -1,16 +1,8 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: fluentTQL
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+fluentTQL is a taint-flow query specification language that is Java-like, with a fluent-interface design. The taint-flow queries written in fluentTQL model the data flow between relevant API calls from the analyzed code. The queries can express various taint-style vulnerability types, e.g. injections, cross-site scripting or path traversal. The language is implemented on top of Xtext and a taint analysis is implemented on top of Soot and Boomerang. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
