@@ -47,16 +47,23 @@ allowed to ask questions for clarification. After the tasks we let the participa
   <li>Q28 Learning new PL through examples is more useful than complete language specification (eg. grammar). Answer is on an agreement scale 1 to 10.</li>
 </ul>
 
+
 ## Tutorial
 
-### fluentTQL
+The tutorial of each DSL contains SQL injection example in Java. The class Demo1.java contains the vulnerabilty. The class Demo2.java is extension with use of sanitizer that breaks the taint between the source and the sink. 
 
-### CodeQL
+The fluentTQL specification for the SQL injection example is in the files ExampleDemo1.qwel and ExampleDemo1.qwel. 
+
+The code QL specification for SQL injection example is in the file SQLinjection.ql. 
 
 ## Task
 
 ### fluentTQL
 
+The Java code used to explain the Open redirect vulnerabilty is in the class Test2.java. The stub code provided for the solution is in the file example2.qwel.
+
 ### CodeQL
+
+The Java code used to explain the Cross-site scripting vulnerabilty is in the class Test3.java. The stub code provided for the solution is in the file xss.ql.
 
 ## Data
