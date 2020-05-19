@@ -1,4 +1,8 @@
-# Implementation
+---
+layout: page
+title: Implementation
+subtitle: 
+---
 
 ## fluentTQL Meta-model
 
