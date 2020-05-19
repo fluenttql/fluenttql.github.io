@@ -50,20 +50,22 @@ allowed to ask questions for clarification. After the tasks we let the participa
 
 ## Tutorial
 
-The tutorial of each DSL contains SQL injection example in Java. The class Demo1.java contains the vulnerabilty. The class Demo2.java is extension with use of sanitizer that breaks the taint between the source and the sink. 
+The tutorial of each DSL contains SQL injection example in Java. The class <a href="https://github.com/fluenttql/fluenttql.github.io/blob/master/userstudyfiles/Demo1.java">Demo1.java</a> contains the vulnerabilty. The class <a href="https://github.com/fluenttql/fluenttql.github.io/blob/master/userstudyfiles/Demo2.java">Demo2.java</a> is extension with use of sanitizer that breaks the taint between the source and the sink. 
 
-The fluentTQL specification for the SQL injection example is in the files ExampleDemo1.qwel and ExampleDemo1.qwel. 
+The fluentTQL specification for the SQL injection example is in the files <a href="https://github.com/fluenttql/fluenttql.github.io/blob/master/userstudyfiles/exampleDemo1.qwel">ExampleDemo1.qwel</a> and <a href="https://github.com/fluenttql/fluenttql.github.io/blob/master/userstudyfiles/exampleDemo2.qwel">ExampleDemo2.qwel</a>. 
 
-The code QL specification for SQL injection example is in the file SQLinjection.ql. 
+The code QL specification for SQL injection example is in the file <a href="https://github.com/fluenttql/fluenttql.github.io/blob/master/userstudyfiles/SQLinjection.ql">SQLinjection.ql</a>. 
 
 ## Task
 
 ### fluentTQL
 
-The Java code used to explain the Open redirect vulnerabilty is in the class Test2.java. The stub code provided for the solution is in the file example2.qwel.
+The Java code used to explain the Open redirect vulnerabilty is in the class <a href="https://github.com/fluenttql/fluenttql.github.io/blob/master/userstudyfiles/Test2.java">Test2.java</a>. The stub code provided for the solution is in the file <a href="https://github.com/fluenttql/fluenttql.github.io/blob/master/userstudyfiles/example2.qwel">example2.qwel</a>.
 
 ### CodeQL
 
-The Java code used to explain the Cross-site scripting vulnerabilty is in the class Test3.java. The stub code provided for the solution is in the file xss.ql.
+The Java code used to explain the Cross-site scripting vulnerabilty is in the class <a href="https://github.com/fluenttql/fluenttql.github.io/blob/master/userstudyfiles/Test3.java">Test3.java</a>. The stub code provided for the solution is in the file <a href="https://github.com/fluenttql/fluenttql.github.io/blob/master/userstudyfiles/xss.ql">xss.ql</a>.
 
 ## Data
+
+The collected data from the user study is in the excel file data.xsl.
