@@ -1,0 +1,10 @@
+Method m1 = new Method("com.example.demo.Demo2: java.lang.String execute_query(java.lang.String,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)").out().param(0)
+Method m2 = new Method("org.springframework.jdbc.core.JdbcTemplate: java.util.List queryForList(java.lang.String,java.lang.Class)").in().param(0);
+
+Method m3 = new Method("com.example.demo.Demo2: java.lang.String encodeForSQL(java.lang.String)").in().param(0).out().return();
+
+TaintFlow query = new TaintFlow()
+	.from(m1)
+	.notThrough(m3)
+	.to(m2)
+	.report("Invalid Information Flow") 

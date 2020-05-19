@@ -1,0 +1,5 @@
+Method m1 = new Method("javax.servlet.ServletRequest: java.lang.String getParameter(java.lang.String)")
+Method m2 = new Method("javax.servlet.http.HttpServletResponse: void sendRedirect(java.lang.String)")
+Method m3 = new Method("java.lang.String: replace(java.lang.CharSequence, java.lang.CharSequence)")
+
+
