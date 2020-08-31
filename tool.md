@@ -4,11 +4,7 @@ title: Implementation
 subtitle: 
 ---
 
-## fluentTQL Meta-model
-
-To be added later for the artifact submission.
-
-## fluentTQL Meta-model
+## fluentTQL implementation
 
 To be added later for the artifact submission.
 
@@ -16,6 +12,6 @@ To be added later for the artifact submission.
 
 To be added later for the artifact submission.
 
-## Eclipse plugin
+## MagpieBridge plugin
 
 To be added later for the artifact submission.
