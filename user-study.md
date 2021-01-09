@@ -4,7 +4,7 @@
 ## Overview
 
 This is a comparative, whithin-subjects study between fluentTQL and CodeQL.
-The user study was conducted over a set of teleconferences where each participant shared the screen with the moderator. Each study took on average 80 minutes. The session was recorded for post-processing purposes. The identity of the participants is protected. We invited 32 software developers to take part in the study, from which 23 accepted the invitation, referred to as P01-P23. We invited professional developers via our contacts from the industry as well as reseachers and master level students. Additionally, we asked three students to participate in a test session which helped us to estimate the time and adjust the difficulty of the tasks.
+The user study was conducted over a set of teleconferences where each participant shared the screen with the moderator. Each study took on average 80 minutes. The session was recorded for post-processing purposes. The identity of the participants is protected. We invited 35 software developers to take part in the study, from which 26 accepted the invitation, referred to as P01-P26. We invited professional developers via our contacts from the industry as well as reseachers and master level students. Additionally, we asked three students to participate in a test session which helped us to estimate the time and adjust the difficulty of the tasks.
 
 ## Structure
 
