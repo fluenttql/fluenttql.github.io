@@ -6,12 +6,8 @@ subtitle:
 
 ## fluentTQL implementation
 
-To be added later for the artifact submission.
+https://github.com/secure-software-engineering/secucheck
 
 ## Taint analysis
 
-To be added later for the artifact submission.
-
-## MagpieBridge plugin
-
-To be added later for the artifact submission.
+https://github.com/secure-software-engineering/secucheck-core
